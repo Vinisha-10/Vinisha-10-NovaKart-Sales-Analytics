@@ -1,0 +1,107 @@
+# E-Commerce Sales Analytics Project
+
+## 1. Company Overview
+
+### Company Name
+
+NovaKart
+
+### Industry
+
+E-Commerce
+
+### Business Description
+
+NovaKart is a fictional e-commerce company that sells products across multiple categories such as Electronics, Furniture, and Office Supplies. The company serves customers from different cities and states through an online shopping platform.
+
+As the business grows, management needs a centralized analytics solution to monitor sales performance, customer behavior, product performance, and regional trends. Currently, reports are created manually, making it difficult to make timely and data-driven decisions.
+
+---
+
+# 2. Business Problem
+
+NovaKart generates thousands of sales transactions every month.
+
+Although the company has sales data, it faces several challenges:
+
+* Reports are created manually in Excel.
+* Sales trends are difficult to identify.
+* Top-performing products are not tracked effectively.
+* Customer buying behavior is not analyzed.
+* Regional performance comparisons take too much time.
+* Management lacks a centralized dashboard for monitoring KPIs.
+
+These challenges lead to slower decision-making and missed business opportunities.
+
+---
+
+# 3. Project Objective
+
+The objective of this project is to build an end-to-end E-Commerce Sales Analytics solution using Excel, Python, SQL, PostgreSQL, Power BI, and Tableau.
+
+The solution will:
+
+* Analyze sales performance
+* Measure profitability
+* Track customer behavior
+* Identify top and low-performing products
+* Compare regional sales
+* Automate reporting
+* Provide interactive dashboards for business users
+
+---
+
+# 4. Stakeholders
+
+The following stakeholders will use insights from this project:
+
+| Stakeholder       | Business Need                      |
+| ----------------- | ---------------------------------- |
+| CEO               | Overall business performance       |
+| Sales Manager     | Revenue and sales trends           |
+| Marketing Manager | Customer acquisition and retention |
+| Finance Team      | Profitability analysis             |
+| Product Manager   | Product performance                |
+| Regional Manager  | State and city performance         |
+
+---
+
+# 5. Expected Business Benefits
+
+This analytics solution will help NovaKart:
+
+* Reduce manual reporting time
+* Improve decision-making
+* Identify profitable products
+* Understand customer purchasing behavior
+* Increase customer retention
+* Track business growth over time
+* Support strategic planning through data-driven insights
+
+---
+
+# 6. Success Metrics
+
+The project will be considered successful if:
+
+* Dashboard loads quickly
+* KPIs are accurate
+* Reports are automated
+* Business users can identify trends easily
+* Management can make faster decisions
+* Sales performance can be monitored in real time
+
+# 7. Key Performance Indicators (KPIs)
+
+The dashboard will track the following KPIs:
+
+| KPI                       | Description                                          | Business Value                            |
+| ------------------------- | ---------------------------------------------------- | ----------------------------------------- |
+| Total Revenue             | Total sales generated                                | Measures overall business performance     |
+| Total Profit              | Total profit earned                                  | Indicates business profitability          |
+| Total Orders              | Number of customer orders                            | Tracks sales volume                       |
+| Average Order Value (AOV) | Average amount spent per order                       | Helps understand customer spending habits |
+| Profit Margin             | Percentage of profit from revenue                    | Measures operational efficiency           |
+| Repeat Customer Rate      | Percentage of customers who purchased more than once | Measures customer loyalty                 |
+| Top Selling Products      | Products generating the highest sales                | Helps inventory and marketing decisions   |
+| Top Performing Regions    | States or cities with the highest revenue            | Supports regional business strategy       |
